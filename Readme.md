@@ -25,7 +25,7 @@ This project applies machine learning techniques to predict Chronic Kidney Disea
 
 Optimised Logistic Regression Confusion Matrix
 
-![Optimised Logistic Regression Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/log_rec_roc.png)
+![Optimised Logistic Regression Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/log_reg_roc.png)
 
 Optimised Random Forest Confusion Matrix
 
