@@ -37,7 +37,7 @@ Optimised Neural Network Confusion Matrix
 
 Optimised Neural Network Loss Curve
 
-![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/NN_loss.png)
+![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/NN_loss_1.png)
 
 ## Conclusion
 This project underscores the intricacies of using machine learning for medical diagnosis, especially in CKD. It highlights the importance of selecting appropriate models and techniques in the context of high-dimensional data and provides valuable insights for future research in medical data analytics.
