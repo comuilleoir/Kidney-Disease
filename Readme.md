@@ -25,19 +25,19 @@ This project applies machine learning techniques to predict Chronic Kidney Disea
 
 Optimised Logistic Regression Confusion Matrix
 
-![Optimised Logistic Regression Confusion Matrix](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/log_rec_roc.png)
+![Optimised Logistic Regression Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/log_rec_roc.png)
 
 Optimised Random Forest Confusion Matrix
 
-![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/RF_roc.png)
+![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/RF_roc.png)
 
 Optimised Neural Network Confusion Matrix
 
-![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/NN_roc.png)
+![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/NN_roc.png)
 
 Optimised Neural Network Loss Curve
 
-![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Demolitions/blob/main/Project_Images/NN_loss.png)
+![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/NN_loss.png)
 
 ## Conclusion
 This project underscores the intricacies of using machine learning for medical diagnosis, especially in CKD. It highlights the importance of selecting appropriate models and techniques in the context of high-dimensional data and provides valuable insights for future research in medical data analytics.
