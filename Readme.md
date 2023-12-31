@@ -9,12 +9,15 @@ This project applies machine learning techniques to predict Chronic Kidney Disea
 - **Synthetic Data Generation:** Used synthetic data generation techniques to expand the dataset, aiding in robust model training.
 - **Machine Learning Models:** Began with Logistic Regression, then explored alternative models due to high dimensionality challenges. Additional models include Random Forest and Neural Networks.
 - **Evaluation Metrics:** Applied accuracy score, confusion matrix, ROC curve, and other metrics for comprehensive model evaluation.
-- **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
 
 ## Key Findings
 - Identified limitations of logistic regression in the context of high-dimensional data.
 - Evaluated the impact of synthetic data on model accuracy.
 - Assessed and compared the predictive performance of various machine learning models on CKD diagnosis.
+
+## Technologies Used
+- **Python**: For scripting, data preprocessing, and model implementation.
+- **Machine Learning Libraries**: Utilized Python libraries like scikit-learn for model development and evaluation.
 
 ## Repository Contents
 - `Data`: Includes both original and synthetic datasets.
@@ -39,6 +42,6 @@ Optimised Neural Network Loss Curve
 
 ![Optimised Random Forest Confusion Matrix](https://github.com/comuilleoir/Kidney-Disease/blob/main/Project_Images/NN_loss_1.png)
 
-## Conclusion
-This project underscores the intricacies of using machine learning for medical diagnosis, especially in CKD. It highlights the importance of selecting appropriate models and techniques in the context of high-dimensional data and provides valuable insights for future research in medical data analytics.
-
+## Future Work
+- **Model Optimization:** Focus on enhancing model accuracy and exploring additional machine learning algorithms.
+- **Data Expansion:** Consider incorporating more diverse datasets to further validate model performance.
